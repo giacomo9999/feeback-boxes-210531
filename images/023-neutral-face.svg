@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg
+  version="1.1"
+  id="Icons"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  x="0px"
+  y="0px"
+  viewBox="0 0 48 48"
+  style="enable-background: new 0 0 48 48"
+  xml:space="preserve"
+>
+  <style type="text/css">
+    .st0 {
+      fill: #ffe500;
+    }
+    .st1 {
+      fill: #ebcb00;
+    }
+    .st2 {
+      fill: #fff48c;
+    }
+    .st3 {
+      opacity: 0.15;
+      fill: #45413c;
+    }
+    .st4 {
+      fill: none;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st5 {
+      fill: #ffaa54;
+    }
+    .st6 {
+      fill: #ffb0ca;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st7 {
+      fill: #ff87af;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st8 {
+      fill: #00b8f0;
+    }
+    .st9 {
+      fill: #4acfff;
+    }
+    .st10 {
+      fill: #ffffff;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st11 {
+      fill: #45413c;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st12 {
+      fill: #009fd9;
+    }
+    .st13 {
+      fill: none;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-miterlimit: 10;
+    }
+    .st14 {
+      fill: #ffffff;
+      stroke: #45413c;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st15 {
+      fill: #ff6242;
+    }
+    .st16 {
+      fill: #ff866e;
+    }
+    .st17 {
+      fill: #656769;
+    }
+    .st18 {
+      fill: #87898c;
+    }
+    .st19 {
+      fill: #4aeff7;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st20 {
+      fill: none;
+      stroke: #48cf3e;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st21 {
+      fill: none;
+      stroke: #ff4064;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st22 {
+      fill: none;
+      stroke: #ffb700;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st23 {
+      fill: none;
+      stroke: #00aed9;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st24 {
+      fill: #fffacf;
+    }
+    .st25 {
+      fill: #45413c;
+    }
+    .st26 {
+      fill: #ff866e;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st27 {
+      fill: #dabff5;
+      stroke: #45413c;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st28 {
+      fill: #eddbff;
+    }
+    .st29 {
+      fill: none;
+      stroke: #45413c;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st30 {
+      fill: #6dd627;
+    }
+    .st31 {
+      fill: #46b000;
+    }
+    .st32 {
+      fill: #c8ffa1;
+    }
+    .st33 {
+      fill: url(#XMLID_91_);
+    }
+    .st34 {
+      fill: url(#XMLID_92_);
+    }
+    .st35 {
+      fill: #f0f0f0;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st36 {
+      fill: #ebcb00;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st37 {
+      fill: #bdbec0;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st38 {
+      fill: #f0f0f0;
+    }
+    .st39 {
+      fill: #ffffff;
+    }
+    .st40 {
+      fill: url(#XMLID_93_);
+    }
+    .st41 {
+      fill: url(#XMLID_94_);
+    }
+    .st42 {
+      fill: #ffe500;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st43 {
+      fill: #e04122;
+    }
+    .st44 {
+      fill: #8cffe4;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st45 {
+      fill: #e5fff9;
+    }
+    .st46 {
+      fill: #e0e0e0;
+    }
+    .st47 {
+      fill: #9ceb60;
+    }
+    .st48 {
+      fill: #6dd627;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st49 {
+      fill: #e8f4fa;
+    }
+    .st50 {
+      fill: #f0d5a8;
+    }
+    .st51 {
+      fill: #debb7e;
+    }
+    .st52 {
+      fill: #b89558;
+    }
+    .st53 {
+      fill: #00b8f0;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st54 {
+      fill: #fffce5;
+    }
+    .st55 {
+      fill: #ff87af;
+    }
+    .st56 {
+      fill: #4acfff;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st57 {
+      fill: #e5f8ff;
+    }
+    .st58 {
+      fill: none;
+      stroke: #45413c;
+      stroke-miterlimit: 10;
+    }
+    .st59 {
+      fill: none;
+      stroke: #ff6242;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st60 {
+      fill: #bdbec0;
+    }
+    .st61 {
+      fill: #b89558;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st62 {
+      fill: #ff6242;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st63 {
+      fill: #525252;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st64 {
+      fill: #525252;
+    }
+    .st65 {
+      fill: #00dba8;
+    }
+    .st66 {
+      fill: #00ad85;
+    }
+    .st67 {
+      fill: #bf8df2;
+    }
+    .st68 {
+      fill: #dabff5;
+    }
+    .st69 {
+      fill: #00f5bc;
+    }
+    .st70 {
+      fill: #daedf7;
+    }
+    .st71 {
+      fill: #c0dceb;
+    }
+    .st72 {
+      fill: #adc4d9;
+    }
+    .st73 {
+      fill: #adc4d9;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st74 {
+      fill: #00dfeb;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st75 {
+      fill: #627b8c;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st76 {
+      fill: #8ca4b8;
+    }
+    .st77 {
+      fill: #00dba8;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st78 {
+      fill: #ff8a14;
+    }
+    .st79 {
+      fill: #bf8256;
+    }
+    .st80 {
+      fill: #dea47a;
+    }
+    .st81 {
+      fill: #915e3a;
+    }
+    .st82 {
+      fill: #ffa694;
+    }
+    .st83 {
+      fill: #e5feff;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st84 {
+      fill: #803ec2;
+      stroke: #45413c;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10;
+    }
+    .st85 {
+      fill: #9f5ae5;
+    }
+    .st86 {
+      fill: #803ec2;
+    }
+  </style>
+  <g id="XMLID_638_">
+    <circle id="XMLID_7418_" class="st0" cx="24" cy="21.5" r="20" />
+    <path
+      id="XMLID_7415_"
+      class="st1"
+      d="M24,1.5c-11,0-20,9-20,20s9,20,20,20s20-9,20-20S35,1.5,24,1.5z M24,38.5
+		c-10.1,0-18.2-8.2-18.2-18.2C5.8,10.2,13.9,2,24,2s18.2,8.2,18.2,18.2C42.2,30.3,34.1,38.5,24,38.5z"
+    />
+    <ellipse id="XMLID_7414_" class="st2" cx="24" cy="5.5" rx="6" ry="1.5" />
+    <ellipse id="XMLID_7413_" class="st3" cx="24" cy="45.5" rx="16" ry="1.5" />
+    <circle id="XMLID_7412_" class="st4" cx="24" cy="21.5" r="20" />
+    <circle id="XMLID_7411_" class="st11" cx="13.5" cy="20.5" r="1" />
+    <circle id="XMLID_7410_" class="st11" cx="34.5" cy="20.5" r="1" />
+    <ellipse id="XMLID_7409_" class="st5" cx="36" cy="26.5" rx="2.5" ry="1.5" />
+    <ellipse id="XMLID_7408_" class="st5" cx="12" cy="26.5" rx="2.5" ry="1.5" />
+    <line id="XMLID_7407_" class="st4" x1="19" y1="31" x2="29" y2="31" />
+  </g>
+</svg>

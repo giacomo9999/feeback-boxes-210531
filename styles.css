@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.panel-container {
+  background-color: crimson;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.ratings-container {
+  background-color: chartreuse;
+  display: flex;
+  flex-direction: row;
+}
+
+.rating {
+  background-color: blueviolet;
+  height: 65px;
+  width: 65px;
+  margin: 20px;
+  text-align: center;
+}
