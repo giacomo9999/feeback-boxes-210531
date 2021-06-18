@@ -52,9 +52,13 @@ body {
   cursor: pointer;
 }
 
-.rating:hover,
-.rating:active {
+.rating:hover {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+}
+
+.active {
+  background-color: chartreuse;
+  transform: scale(0.9);
 }
 
 .rating small {
